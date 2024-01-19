@@ -13,7 +13,7 @@ This is an Exam Management System built using Flask for creating and managing ex
 9. Features
 10. Contributing
 
-### Description
+## Description
 
 The Exam Management System provides the following functionalities:
 
